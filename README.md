@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Igor. I graduated from the institute with a degree in programming long ago in 1996. But then, it so happened that I never started working in my specialty.
 But programming has remained my hobby. And now, I have a little more time for my hobby, learning JAVA.
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA at Epam Java Internal Course
+UPADATE: From 2022 I working as JAVA developer at EPAM Systems.
+
+- 👀 I’m nterested in JAVA
 - 💞️ I’m looking to collaborate on any project for beginners.
 - 📫 How to reach me ... skype: IgorP2, mail: igorp222222_gmail.com, ihor_pidverbnyi_epam.com
 
